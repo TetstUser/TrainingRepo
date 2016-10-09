@@ -6,6 +6,5 @@ sdv
 vrrr
 d
 
-d
 
 test
